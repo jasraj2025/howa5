@@ -62,7 +62,7 @@ nav ul li a.active {
     color: black;
 }
 
-@media (max-width: 940px) {
+@media (max-width: 767px) {
     nav .menu-btn i {
         display: block;
         margin-top: 10px;
